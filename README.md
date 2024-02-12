@@ -8,7 +8,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/kohya_ss-colab/blob/main/kohya_ss_colab.ipynb) | kohya_ss_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/ithub.com/fadilabi/kohya_ss-colab/blob/main/kohya_ss_colab.ipynb) | kohya_ss_colab
 
 ## Tutorial
 From https://www.youtube.com/@SECourses <br />
